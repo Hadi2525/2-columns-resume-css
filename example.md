@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="bulma.min.css" type="text/css">
 <link rel="stylesheet" href="2-columns.css" type="text/css">
 <aside>
-<img src="gopher.png" alt="img" class="avatar">
 <div class="info">
 - :octocat: [Github](https://github.com)
 - :e-mail: [hrouhani@gmail.com](mailto:hrouhani@gmail.com)
